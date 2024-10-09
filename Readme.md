@@ -232,7 +232,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <h3 align="center">Leetcode Stats</h3>
 <p align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/rafikshah2272?border=0&radius=20"/>
+  <img align="center" src="https://leetcard.jacoblin.cool/VedPatil2272?border=0&radius=20"/>
 </p>
 
 
@@ -628,8 +628,8 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <table align="center">
   <tr>
     <td colspan="3" align="center">
-      <a href="mailto:rafikshah3262@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=rafikshah3262@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
+      <a href="mailto:VedPatil3262@gmail.com" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=VedPatil3262@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
       </a>
     </td>
     <td align="center">
